@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "type": "mcq",
+    "points": 1,
+    "q": "What can humans not change? (মানুষ কী পরিবর্তন করতে পারে না?)",
+    "opts": [
+      "The greenhouse gases (গ্রীনহাউস গ্যাস)",
+      "The sun's radiation and earth's orbit (সূর্যের বিকিরণ এবং পৃথিবীর কক্ষপথ)",
+      "Carbon dioxide (কার্বন ডাই অক্সাইড)",
+      "Natural gas use (প্রাকৃতিক গ্যাসের ব্যবহার)"
+    ],
+    "ans": 1,
+    "exp": "Humans cannot change the sun's radiation or the Earth's orbit."
+  },
+  {
+    "id": 2,
+    "type": "mcq",
+    "points": 1,
+    "q": "What can humans control? (মানুষ কী নিয়ন্ত্রণ করতে পারে?)",
+    "opts": [
+      "Earthquakes (ভূমিকম্প)",
+      "Rainfall (বৃষ্টিপাত)",
+      "Increase of greenhouse gases (গ্রীনহাউস গ্যাস বৃদ্ধির হার)",
+      "Sunlight (রোদ)"
+    ],
+    "ans": 2,
+    "exp": "Humans can control the increase of greenhouse gases."
+  },
+  {
+    "id": 3,
+    "type": "mcq",
+    "points": 1,
+    "q": "Who is responsible for the alarming rise in carbon dioxide? (কার্বন ডাই অক্সাইড বৃদ্ধির জন্য কে দায়ী?)",
+    "opts": [
+      "Animals (প্রাণী)",
+      "Volcanoes (আগ্নেয়গিরি)",
+      "Humans (মানুষ)",
+      "Oceans (মহাসাগর)"
+    ],
+    "ans": 2,
+    "exp": "Humans are responsible for the alarming rise in carbon dioxide."
+  },
+  {
+    "id": 4,
+    "type": "mcq",
+    "points": 1,
+    "q": "When did the increase of carbon dioxide start? (কার্বন ডাই অক্সাইড বৃদ্ধি কবে শুরু হয়?)",
+    "opts": [
+      "Last 10 years (গত ১০ বছরে)",
+      "During the last hundred years (গত ১০০ বছরে)",
+      "Since ancient times (প্রাচীনকাল থেকে)",
+      "Since 21st century (২১ শতক থেকে)"
+    ],
+    "ans": 1,
+    "exp": "The increase started during the last hundred years."
+  },
+  {
+    "id": 5,
+    "type": "mcq",
+    "points": 1,
+    "q": "What is the main cause of increased CO₂ in the atmosphere? (বায়ুমণ্ডলে CO₂ বৃদ্ধির প্রধান কারণ কী?)",
+    "opts": [
+      "Tree plantation (বৃক্ষরোপণ)",
+      "Rainfall (বৃষ্টিপাত)",
+      "Burning fossil fuels (জীবাশ্ম জ্বালানি পোড়ানো)",
+      "Solar panels (সোলার প্যানেল)"
+    ],
+    "ans": 2,
+    "exp": "Burning fossil fuels is the main cause of increased CO₂."
+  },
+  {
+    "id": 6,
+    "type": "mcq",
+    "points": 1,
+    "q": "What began to increase rapidly at the end of the 19th century? (১৯ শতকের শেষ দিকে কী দ্রুত বেড়েছে?)",
+    "opts": [
+      "Pollution (দূষণ)",
+      "Industrial activities (শিল্প কার্যক্রম)",
+      "Tree plantation (বৃক্ষরোপণ)",
+      "Agricultural lands (কৃষিজমি)"
+    ],
+    "ans": 1,
+    "exp": "Industrial activities began to increase rapidly."
+  },
+  {
+    "id": 7,
+    "type": "mcq",
+    "points": 1,
+    "q": "What did factories need to run? (কারখানাগুলো চালাতে কী লাগত?)",
+    "opts": [
+      "Solar energy (সৌর শক্তি)",
+      "Wind energy (বায়ু শক্তি)",
+      "Energy from coal (কয়লা থেকে শক্তি)",
+      "Water (পানি)"
+    ],
+    "ans": 2,
+    "exp": "Factories needed energy from coal to run."
+  },
+  {
+    "id": 8,
+    "type": "mcq",
+    "points": 1,
+    "q": "Which was not mentioned as an energy source in the text? (নিচের কোনটি টেক্সটে শক্তির উৎস হিসেবে বলা হয়নি?)",
+    "opts": [
+      "Coal (কয়লা)",
+      "Mineral oil (খনিজ তেল)",
+      "Natural gas (প্রাকৃতিক গ্যাস)",
+      "Solar power (সৌর শক্তি)"
+    ],
+    "ans": 3,
+    "exp": "Solar power was not mentioned as an energy source."
+  },
+  {
+    "id": 9,
+    "type": "mcq",
+    "points": 1,
+    "q": "What is burned to heat houses and run vehicles? (ঘর গরম করতে ও যানবাহন চালাতে কী পোড়ানো হয়?)",
+    "opts": [
+      "Wood (কাঠ)",
+      "Fossil fuels (জীবাশ্ম জ্বালানি)",
+      "Electricity (বিদ্যুৎ)",
+      "Plastic (প্লাস্টিক)"
+    ],
+    "ans": 1,
+    "exp": "Fossil fuels are burned to heat houses and run vehicles."
+  },
+  {
+    "id": 10,
+    "type": "mcq",
+    "points": 1,
+    "q": "Approximately how many barrels of crude oil are burned daily? (প্রতিদিন কত ব্যারেল অপরিশোধিত তেল পোড়ানো হয় প্রায়?)",
+    "opts": [
+      "50 million (৫০ মিলিয়ন)",
+      "85 million (৮৫ মিলিয়ন)",
+      "100 million (১০০ মিলিয়ন)",
+      "150 million (১৫০ মিলিয়ন)"
+    ],
+    "ans": 1,
+    "exp": "Approximately 85 million barrels are burned daily."
+  }
+]

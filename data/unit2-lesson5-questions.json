@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "type": "mcq",
+    "points": 1,
+    "q": "What is the main purpose of reading the passage? (লেখাটি পড়ার প্রধান উদ্দেশ্য কী?)",
+    "opts": [
+      "To learn how to save money (কিভাবে টাকা বাঁচাবো শেখা)",
+      "To know how to save our environment (আমাদের পরিবেশ রক্ষা করার উপায় জানা)",
+      "To find new places to visit (নতুন স্থান খুঁজে পাওয়া)",
+      "To learn about animals (প্রাণী সম্পর্কে জানা)"
+    ],
+    "ans": 1,
+    "exp": "The main purpose of the passage is to know how to save our environment."
+  },
+  {
+    "id": 2,
+    "type": "mcq",
+    "points": 1,
+    "q": "What is the main message of the passage? (লেখার প্রধান বার্তা কী?)",
+    "opts": [
+      "Save water only (শুধুমাত্র পানি বাঁচাও)",
+      "Protect the environment by everyone's effort (পরিবেশ রক্ষায় সবার অংশগ্রহণ)",
+      "Use more plastic products (আরও প্লাস্টিক ব্যবহার)",
+      "Travel more often (অধিক ভ্রমণ করো)"
+    ],
+    "ans": 1,
+    "exp": "The main message is to protect the environment by everyone's effort."
+  },
+  {
+    "id": 3,
+    "type": "mcq",
+    "points": 1,
+    "q": "According to the passage, who must play a part in protecting the environment? (পরিবেশ রক্ষায় কে অংশগ্রহণ করবে?)",
+    "opts": [
+      "Only government officials (শুধুমাত্র সরকারী কর্মকর্তা)",
+      "Everyone (সবার)",
+      "Only teachers (শিক্ষকরা)",
+      "Only children (শিশুরা)"
+    ],
+    "ans": 1,
+    "exp": "Everyone must play a part in protecting the environment."
+  },
+  {
+    "id": 4,
+    "type": "mcq",
+    "points": 1,
+    "q": "What is suggested as the best thing we can do for the planet? (পৃথিবীর জন্য সবচেয়ে ভালো কাজ কী বলা হয়েছে?)",
+    "opts": [
+      "Use resources properly (সম্পদ সঠিকভাবে ব্যবহার করা)",
+      "Buy new things often (নতুন জিনিস বেশি কেনা)",
+      "Travel by plane (বিমানে ভ্রমণ করা)",
+      "Cut down trees (গাছ কাটা)"
+    ],
+    "ans": 0,
+    "exp": "Using resources properly is the best thing for the planet."
+  },
+  {
+    "id": 5,
+    "type": "mcq",
+    "points": 1,
+    "q": "What mainly causes the environmental crisis according to the passage? (পরিবেশ সংকটের মূল কারণ কী?)",
+    "opts": [
+      "Planned activities (পরিকল্পিত কাজ)",
+      "Unplanned activities (অপরিকল্পিত কাজ)",
+      "Using solar energy (সৌর শক্তি ব্যবহার)",
+      "Planting trees (গাছ লাগানো)"
+    ],
+    "ans": 1,
+    "exp": "Unplanned activities mainly cause the environmental crisis."
+  },
+  {
+    "id": 6,
+    "type": "mcq",
+    "points": 1,
+    "q": "Which question should you ask before buying something? (কিছু কেনার আগে কোন প্রশ্ন করা উচিত?)",
+    "opts": [
+      "Is it the most expensive? (এটা কি সবচেয়ে দামি?)",
+      "Do I really need this? (আমি কি সত্যিই এটা প্রয়োজন?)",
+      "Will it make me popular? (এটা কি আমাকে জনপ্রিয় করবে?)",
+      "Is it the biggest? (এটা কি সবচেয়ে বড়?)"
+    ],
+    "ans": 1,
+    "exp": "You should ask if you really need the item before buying it."
+  },
+  {
+    "id": 7,
+    "type": "mcq",
+    "points": 1,
+    "q": "What question helps you decide if a product is sustainable? (কোন প্রশ্নটি পণ্যের টেকসইতা বুঝতে সাহায্য করে?)",
+    "opts": [
+      "Is there another product that does the same thing but more sustainable? (আরও টেকসই বিকল্প আছে কি?)",
+      "Does it look nice? (এটি কি সুন্দর দেখায়?)",
+      "Is it from another country? (এটি কি অন্য দেশের?)",
+      "Is it colorful? (এটি কি রঙিন?)"
+    ],
+    "ans": 0,
+    "exp": "Asking if a more sustainable alternative exists helps decide product sustainability."
+  },
+  {
+    "id": 8,
+    "type": "mcq",
+    "points": 1,
+    "q": "What should you consider about an item's life before buying it? (কেনার আগে পণ্যের স্থায়িত্ব বিবেচনা করতে হবে কেন?)",
+    "opts": [
+      "Will it last a long time? (এটি কি দীর্ঘদিন টিকবে?)",
+      "Is it trendy? (এটি কি ফ্যাশনেবল?)",
+      "Is it flashy? (এটি কি ঝকঝকে?)",
+      "Is it expensive? (এটি কি দামি?)"
+    ],
+    "ans": 0,
+    "exp": "Consider if the item will last a long time before buying."
+  },
+  {
+    "id": 9,
+    "type": "mcq",
+    "points": 1,
+    "q": "What question is suggested about the item's production? (পণ্যের উৎপাদন সম্পর্কে কোন প্রশ্ন করা উচিত?)",
+    "opts": [
+      "Do I know how it was made? (আমি কি জানি এটা কীভাবে তৈরি হয়েছে?)",
+      "Was it made in a city? (এটি কি শহরে তৈরি?)",
+      "Does it have a brand name? (এর ব্র্যান্ড নাম আছে কি?)",
+      "Was it made last year? (এটি কি গত বছর তৈরি?)"
+    ],
+    "ans": 0,
+    "exp": "The correct question is: Do I know how it was made?"
+  },
+  {
+    "id": 10,
+    "type": "mcq",
+    "points": 1,
+    "q": "What does reusing mean according to the passage? (পুনরায় ব্যবহার করার মানে কী?)",
+    "opts": [
+      "Throwing away after one use (একবার ব্যবহার করে ফেলা)",
+      "Using again after washing or repairing (ধুয়ে বা মেরামত করে আবার ব্যবহার করা)",
+      "Buying a new one (নতুন কেনা)",
+      "Giving it to someone else (কারো অন্যকে দেয়া)"
+    ],
+    "ans": 1,
+    "exp": "Reusing means using an item again after washing or repairing."
+  }
+]
