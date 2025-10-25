@@ -1,6 +1,11 @@
 ---
 name: Quiz test & build
-on: [push]
+on: 
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+    
 jobs:
   test:
     runs-on: ubuntu-latest
